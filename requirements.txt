@@ -1,0 +1,10 @@
+pyttsx3
+PyAudio
+
+pyttsx3==2.99
+PyAudio==0.2.14
+
+SpeechRecognition==3.14.3
+pip freeze > requirements.txt
+SpeechRecognition
+pip show SpeechRecognition pyttsx3 PyAudio
